@@ -1,0 +1,7 @@
+<log>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 18.6.2016)" amount="1950"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (19:37, 23.6.2016)" amount="228135"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (19:39, 23.6.2016)" amount="152348"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (19:40, 23.6.2016)" amount="11111"></eintrag>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 24.6.2016)" amount="22620"></eintrag>
+</log>

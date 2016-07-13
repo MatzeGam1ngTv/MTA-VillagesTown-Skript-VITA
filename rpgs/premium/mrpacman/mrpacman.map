@@ -1,0 +1,26 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (bevman2_LAW2) (2)" radius="31.635971" interior="0" model="3607" lodModel="3733" posX="310.61719" posY="-1145.5234" posZ="85.875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (bevmangar_LAW2) (1)" radius="11.981899" interior="0" model="3604" lodModel="3737" posX="279.13281" posY="-1152.2266" posZ="82.41406" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palm04) (1)" radius="22.657042" interior="0" model="620" lodModel="0" posX="268.52344" posY="-1189.7031" posZ="78.17188" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_veg_tree6) (1)" radius="11.084518" interior="0" model="700" lodModel="0" posX="274.19531" posY="-1202.3281" posZ="79.73438" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_vegvbbig) (1)" radius="33.163795" interior="0" model="706" lodModel="0" posX="252.90625" posY="-1156.1953" posZ="77.76563" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_vegvbbig) (2)" radius="33.163795" interior="0" model="706" lodModel="0" posX="301.08594" posY="-1115.375" posZ="79.91406" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palm04) (2)" radius="22.657042" interior="0" model="620" lodModel="0" posX="336.50781" posY="-1171.4531" posZ="78.40625" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palm04) (3)" radius="22.657042" interior="0" model="620" lodModel="0" posX="310.27344" posY="-1194.7422" posZ="78.67188" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_veg_tree4_vbig) (1)" radius="25.636084" interior="0" model="708" lodModel="0" posX="287.95313" posY="-1206.7266" posZ="79.28906" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (bevman3_LAW2) (1)" breakable="true" interior="0" alpha="255" model="3605" doublesided="true" scale="1" dimension="0" posX="275.10001" posY="-1179.7" posZ="85.2" rotX="0" rotY="0" rotZ="132.997"></object>
+    <object id="object (vegasNbball1) (1)" breakable="true" interior="0" alpha="255" model="6959" doublesided="false" scale="1" dimension="0" posX="267.08301" posY="-1162.3" posZ="58.425" rotX="0" rotY="90" rotZ="132.75"></object>
+    <object id="object (vegasNbball1) (2)" breakable="true" interior="0" alpha="255" model="6959" doublesided="false" scale="1" dimension="0" posX="282.42651" posY="-1175.4" posZ="79.1" rotX="0" rotY="0" rotZ="42.75"></object>
+    <object id="object (helipad01) (1)" breakable="true" interior="0" alpha="255" model="3934" doublesided="false" scale="1" dimension="0" posX="307.29999" posY="-1123.9" posZ="79.95" rotX="0" rotY="0" rotZ="43.5"></object>
+    <object id="object (3)" breakable="true" interior="0" alpha="255" model="345" doublesided="false" scale="1" dimension="0" posX="294.20001" posY="-1184.2" posZ="91" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (4)" breakable="true" interior="0" alpha="255" model="345" doublesided="false" scale="1" dimension="0" posX="273.5" posY="-1161.7" posZ="91" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sf_rooflite) (1)" breakable="true" interior="0" alpha="255" model="3877" doublesided="false" scale="1" dimension="0" posX="312.5" posY="-1123.9" posZ="79.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sf_rooflite) (2)" breakable="true" interior="0" alpha="255" model="3877" doublesided="false" scale="1" dimension="0" posX="307.70001" posY="-1118.8" posZ="79.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sf_rooflite) (3)" breakable="true" interior="0" alpha="255" model="3877" doublesided="false" scale="1" dimension="0" posX="302.10001" posY="-1124.2" posZ="79.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sf_rooflite) (4)" breakable="true" interior="0" alpha="255" model="3877" doublesided="false" scale="1" dimension="0" posX="306.89999" posY="-1129.2" posZ="79.5" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (CE_telewires02) (1)" radius="175.42169" interior="0" model="13862" lodModel="0" posX="359.25" posY="-1125.8281" posZ="80.85156" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (tall_fence) (1)" breakable="true" interior="0" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="316.20001" posY="-1192.3" posZ="77.1" rotX="0" rotY="0" rotZ="38.25"></object>
+    <object id="object (tall_fence) (2)" breakable="true" interior="0" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="326.5" posY="-1184.15" posZ="77.1" rotX="0" rotY="0" rotZ="38.499"></object>
+    <object id="object (tall_fence) (3)" breakable="true" interior="0" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="326.45001" posY="-1184.1" posZ="77.1" rotX="0" rotY="0" rotZ="38.496"></object>
+    <object id="object (tall_fence) (4)" breakable="true" interior="0" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="316.10001" posY="-1192.28" posZ="77.1" rotX="0" rotY="0" rotZ="38.249"></object>
+</map>

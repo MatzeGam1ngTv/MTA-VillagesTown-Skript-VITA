@@ -1,0 +1,20 @@
+﻿<tankstellen>
+    <tankstelle id="1" x="1006.5" y="-940.2" size="30" fuel="418" />
+    <tankstelle id="2" x="1382.2" y="462.7" size="30" fuel="500" />
+    <tankstelle id="3" x="-1328.7" y="2677.6" size="30" fuel="500" />
+    <tankstelle id="4" x="-1675.5" y="413.2" size="30" fuel="500" />
+    <tankstelle id="5" x="-2243.9" y="-2561.1" size="30" fuel="500" />
+    <tankstelle id="6" x="-1607.2" y="-2713.7" size="30" fuel="459" />
+    <tankstelle id="7" x="1937.3" y="-1773.8" size="30" fuel="373" />
+    <tankstelle id="8" x=" -91.5" y="-1168.9" size="30" fuel="500" />
+    <tankstelle id="9" x="-2411.2" y="973.9" size="30" fuel="500" />
+    <tankstelle id="10" x="1621" y="752" size="30" fuel="500" />
+    <tankstelle id="11" x="2112.7" y="920.6" size="30" fuel="296" />
+    <tankstelle id="12" x="2640.6" y="1109.5" size="30" fuel="500" />
+    <tankstelle id="13" x="2199.3" y="2475.6" size="30" fuel="500" />
+    <tankstelle id="14" x="1595.0" y="2199.0" size="30" fuel="240" />
+    <tankstelle id="15" x="614.2" y="1690.1" size="30" fuel="500" />
+    <tankstelle id="16" x="2146.4" y="2749.1" size="30" fuel="500" />
+    <tankstelle id="17" x="-1468.9" y="1864.7" size="30" fuel="500" />
+    <tankstelle id="18" x="655.1" y="-564.5" size="30" fuel="500" />
+</tankstellen>

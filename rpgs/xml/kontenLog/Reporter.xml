@@ -1,0 +1,23 @@
+<log>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 13.6.2016)" amount="100"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 14.6.2016)" amount="0"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 15.6.2016)" amount="275"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 16.6.2016)" amount="0"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 17.6.2016)" amount="0"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 18.6.2016)" amount="50"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 19.6.2016)" amount="235"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 20.6.2016)" amount="45"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 21.6.2016)" amount="0"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 22.6.2016)" amount="100"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 23.6.2016)" amount="101"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 24.6.2016)" amount="1580"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 25.6.2016)" amount="155"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 26.6.2016)" amount="240"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 27.6.2016)" amount="50"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 28.6.2016)" amount="75"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 29.6.2016)" amount="100"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 30.6.2016)" amount="820"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 1.7.2016)" amount="337"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 2.7.2016)" amount="561"></eintrag>
+    <eintrag type="Einzahlung" text="Steuer (18:0, 3.7.2016)" amount="0"></eintrag>
+</log>

@@ -1,0 +1,34 @@
+﻿Hinzugefügt / Bearbeitet
+
+- Gärtner Job = Verlegt nach Los Santos (Fertig)
+- Krankenhaus nach Los Santos Verlegt (Fertig) = Neue Map Erstellen, Mit Feuerwehr (In Bearbeitung)
+- Register / Login Spawn = Krankenhaus Los Santos (Fertig)
+- Klamotten / Skin änderung Exstern Los Santos Shop (Fertig)
+- Verarungsstelle Verlegt nach Los Santos (Fertig)
+- Pizze Lieferant nach Los Santos Verlegt (Fertig)
+- Taxi Fahrer nach Los Santos Verlegt (Fertig)
+- 
+
+Entfernt / Bearbeitet
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+Muss noch gemacht werden! Vor der Veröffentlichung!
+
+- Verwarungsstelle Tor/Gate Öffnen für Mechaniker (In Bearbeitung)
+- Polizei Duty/Skin Marker/Pickup fehler beheben (In Bearbeitung)
+- 
+- 
+- 
+- 
+- 
+- 

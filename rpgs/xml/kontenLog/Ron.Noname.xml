@@ -1,0 +1,7 @@
+<log>
+    <eintrag type="Ueberweisung EIN" text="Gehalt (18:0, 26.6.2016)" amount="1560"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 30.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 1.7.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 2.7.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 3.7.2016)" amount="500"></eintrag>
+</log>

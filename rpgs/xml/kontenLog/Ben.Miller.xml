@@ -1,0 +1,11 @@
+<log>
+    <eintrag type="Einzahlung" text="Ben.Miller, ATM (18:1, 23.6.2016)" amount="2500000"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (18:34, 23.6.2016)" amount="50000"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (18:35, 23.6.2016)" amount="42500"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (18:36, 23.6.2016)" amount="50000"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (19:41, 23.6.2016)" amount="26000"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (19:42, 23.6.2016)" amount="50000"></eintrag>
+    <eintrag type="Ueberweisung EIN" text="Gehalt (18:0, 24.6.2016)" amount="22620"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (20:45, 26.6.2016)" amount="200"></eintrag>
+    <eintrag type="Auszahlung" text="Ben.Miller, ATM (20:48, 26.6.2016)" amount="200"></eintrag>
+</log>

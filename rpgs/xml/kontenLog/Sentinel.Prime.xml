@@ -1,0 +1,13 @@
+<log>
+    <eintrag type="Einzahlung" text="Sentinel.Prime, ATM (18:43, 23.6.2016)" amount="9500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 24.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 25.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 26.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 27.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 28.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 29.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 30.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 1.7.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 2.7.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 3.7.2016)" amount="500"></eintrag>
+</log>

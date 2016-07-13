@@ -1,0 +1,26 @@
+<log>
+    <eintrag type="Einzahlung" text="Ryan.Mcmillen, ATM (18:23, 13.6.2016)" amount="10000"></eintrag>
+    <eintrag type="Ueberweisung EIN" text="VON: Matze.Gamingtv, s (18:24, 13.6.2016)" amount="500000"></eintrag>
+    <eintrag type="Auszahlung" text="Ryan.Mcmillen, ATM (18:24, 13.6.2016)" amount="10000"></eintrag>
+    <eintrag type="Auszahlung" text="Ryan.Mcmillen, ATM (18:24, 13.6.2016)" amount="10000"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 14.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 15.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 16.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 17.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 18.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 19.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 20.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 21.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 22.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 23.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 24.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 25.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 26.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 27.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 28.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 29.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 30.6.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 1.7.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 2.7.2016)" amount="500"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 3.7.2016)" amount="500"></eintrag>
+</log>

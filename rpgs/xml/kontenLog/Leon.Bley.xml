@@ -1,0 +1,5 @@
+<log>
+    <eintrag type="Einzahlung" text="Leon.Bley, ATM (16:54, 3.7.2016)" amount="9600"></eintrag>
+    <eintrag type="Auszahlung" text="Leon.Bley, ATM (16:55, 3.7.2016)" amount="100"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 3.7.2016)" amount="500"></eintrag>
+</log>

@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------
+--sound = playSound3D ( "http://listen.technobase.fm/dsl.asx",  ) 
+--function initSound ()
+--setSoundMinDistance ( sound, 5 )
+--setSoundMaxDistance ( sound, 10 )
+--end
+--addEventHandler( "onClientResourceStart", getRootElement(), initSound )
+---------------------------------------------------------------------------------------------

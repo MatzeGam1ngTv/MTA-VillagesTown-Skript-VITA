@@ -1,0 +1,21 @@
+<log>
+    <eintrag type="Einzahlung" text="Marcel.Paul, ATM (16:42, 13.6.2016)" amount="10000"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (16:47, 13.6.2016)" amount="100"></eintrag>
+    <eintrag type="Ueberweisung EIN" text="VON: Matze.Gamingtv,  (17:44, 13.6.2016)" amount="5000000"></eintrag>
+    <eintrag type="Einzahlung" text="Arbeitslosengeld (18:0, 13.6.2016)" amount="500"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (18:5, 13.6.2016)" amount="1000"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (18:26, 13.6.2016)" amount="1000"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (17:54, 23.6.2016)" amount="97500"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (19:41, 23.6.2016)" amount="100"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (19:44, 23.6.2016)" amount="76045"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (19:53, 23.6.2016)" amount="2500"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (20:15, 23.6.2016)" amount="47900"></eintrag>
+    <eintrag type="Ueberweisung EIN" text="Gehalt (18:0, 24.6.2016)" amount="1600"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (19:19, 24.6.2016)" amount="99250"></eintrag>
+    <eintrag type="Ueberweisung EIN" text="Gehalt (18:0, 25.6.2016)" amount="4875"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (20:14, 25.6.2016)" amount="229144"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (21:24, 25.6.2016)" amount="235335"></eintrag>
+    <eintrag type="Auszahlung" text="Marcel.Paul, ATM (21:24, 25.6.2016)" amount="100000"></eintrag>
+    <eintrag type="Einzahlung" text="Marcel.Paul, ATM (21:47, 25.6.2016)" amount="8636"></eintrag>
+    <eintrag type="Ueberweisung EIN" text="Gehalt (18:0, 26.6.2016)" amount="5000"></eintrag>
+</log>

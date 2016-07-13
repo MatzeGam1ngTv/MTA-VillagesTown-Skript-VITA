@@ -1,0 +1,12 @@
+<log>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 13.6.2016)" amount="1200"></eintrag>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 15.6.2016)" amount="2520"></eintrag>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 23.6.2016)" amount="34"></eintrag>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 24.6.2016)" amount="3083"></eintrag>
+    <eintrag type="Auszahlung" text="Florian.Mrpacman, ATM (19:59, 24.6.2016)" amount="200000"></eintrag>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 25.6.2016)" amount="1161"></eintrag>
+    <eintrag type="Auszahlung" text="Florian.Mrpacman, ATM (20:17, 25.6.2016)" amount="100000"></eintrag>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 26.6.2016)" amount="15600"></eintrag>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 27.6.2016)" amount="1950"></eintrag>
+    <eintrag type="Ueberweisung AUS" text="Gehalt (18:0, 28.6.2016)" amount="2925"></eintrag>
+</log>

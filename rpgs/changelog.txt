@@ -1,0 +1,11 @@
+TODO: Wiederbelebung mit anklicken
+TODO: Krankenhaus Passanten überarbeiten
+
+
+TODOO Kilometerstand etwas verbuggt?
+TODOO /admin um Position für admin zu zeigen
+TODOO Notifications durchsichtig
+TODOO ARES TÜV ZU HOCH
+TODOO Report system/Ticketsystem
+TODOO ABFRAGE BEI /rechnung
+TODOO Mehr Tuning
