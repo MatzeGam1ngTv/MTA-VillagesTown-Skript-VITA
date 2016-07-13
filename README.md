@@ -6,6 +6,7 @@ The Vita Village von Sebastian Mühlbauer ist lizenziert unter einer
 "Creative Commons Namensnennung - Nicht-kommerziell - Weitergabeunter gleichen Bedingungen 4.0 International Lizenz."
 
 http://creativecommons.org/licenses/by-nc-sa/4.0/
+
 http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 ## Information
