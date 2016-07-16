@@ -15,15 +15,6 @@
 	<include resource="rpgmabakoservices" />
 	<include resource="rpgmods" />
 	<include resource="realdriveby" />
-	<include resource="vis" />
-	<include resource="Infernus" />
-	<include resource="Ranger" />
-	<include resource="Sandking" />
-	<include resource="Premier" />
-	<include resource="Pony" />
-	<include resource="Towtruck" />
-	<include resource="DFT-30" />
-	<include resource="bone_attach" />
 	
 	<!-- Shared Sachen -->
 	<script src="shared/iteminfo-shared.lua" type="server"  />
