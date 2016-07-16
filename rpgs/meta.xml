@@ -14,7 +14,6 @@
 	<include resource="rpgscoreboard" />
 	<include resource="rpgmabakoservices" />
 	<include resource="rpgmods" />
-	<include resource="leinwand" />
 	<include resource="realdriveby" />
 	<include resource="vis" />
 	<include resource="Infernus" />
